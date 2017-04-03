@@ -9,9 +9,10 @@ npm install jspm --save-dev
 2. cd trails-example-aurelia
 3. npm install
 4. npm install jspm
-5. .\node_modules\.bin\jspm install
+5. jspm install  ( if issues try .\node_modules\.bin\ jspm install)
 6. gulp watch
-7. or gulp serve (with bundle)
+   or 
+   gulp serve-bundle (to build with bundle)
 
 
 
